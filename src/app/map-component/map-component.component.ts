@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-map-component',
   templateUrl: './map-component.component.html',
-  styleUrls: ['./map-component.component.css']  // Correct the spelling of 'styleUrls'
+  styleUrls: ['./map-component.component.css']  
 })
 export class MapComponentComponent {
 
